@@ -20,17 +20,20 @@ Quote and reply posts on X from [@Tresiass158894](https://x.com/Tresiass158894),
 
 Each post is a quote of, or a direct reply to, a different post in the pool, written in its own words for that post, carrying make.fun / @makefunai and the play code `makefun-duckling-popcorn-smoothie`.
 
-## The posts (9, all live)
+## The posts (12, all live)
 
 1. Quote of the GTA 6 clipper post — https://x.com/Tresiass158894/status/2125986943158915079
 2. Quote of the Vugola post — https://x.com/Tresiass158894/status/2125987167000510732
-3. Reply to the best-game thread — https://x.com/Tresiass158894/status/2125987299423076714
-4. Quote of the Yet Another Incremental Game post — https://x.com/Tresiass158894/status/2125987427764592660
-5. Quote of the GTA 6 leaderboard post — https://x.com/Tresiass158894/status/2125987593154379890
-6. Reply to the best-game thread — https://x.com/Tresiass158894/status/2125987724868129239
-7. Quote of the Slotbound post — https://x.com/Tresiass158894/status/2125987864223858913
-8. Reply to the GTA open-world thread — https://x.com/Tresiass158894/status/2125988053860978697
-9. Quote of the Age of Dragon post — https://x.com/Tresiass158894/status/2125988207770910938
+3. Quote of the Yet Another Incremental Game post — https://x.com/Tresiass158894/status/2125987427764592660
+4. Quote of the GTA 6 leaderboard post — https://x.com/Tresiass158894/status/2125987593154379890
+5. Quote of the Slotbound post — https://x.com/Tresiass158894/status/2125987864223858913
+6. Quote of the Age of Dragon post — https://x.com/Tresiass158894/status/2125988207770910938
+7. Quote of the Nov 27 leaderboard post — https://x.com/Tresiass158894/status/2126212038708101515
+8. Quote of the game-jam winners post — https://x.com/Tresiass158894/status/2126358463504871703
+9. Quote of the best-game post — https://x.com/Tresiass158894/status/2126358592714691066
+10. Quote of the GTA open-world post — https://x.com/Tresiass158894/status/2126358808612237765
+11. Quote of the best browser game winners post — https://x.com/Tresiass158894/status/2126359183310389727
+12. Quote of the GeoSports post — https://x.com/Tresiass158894/status/2126359629013909595
 
 Run it the way the grader does:
 
